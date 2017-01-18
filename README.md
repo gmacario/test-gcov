@@ -3,8 +3,8 @@ Test gcov coverage analysis tool
 
 ### Prerequisites
 
-* GCC
-* LCOV
+* [GCC](https://gcc.gnu.org/) - including [gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html)
+* [LCOV](https://github.com/linux-test-project/lcov)
 
 ### Usage example
 
